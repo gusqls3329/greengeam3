@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper
-        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
-        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.green.greengram3.user.UserMapper">
     <insert id="insUser" useGeneratedKeys="true" keyProperty="iuser">
-        insert into t_user
-        set uid = #{uid}
-        ,upw = #{upw}
-        ,nm = #{nm}
-        ,pic = #{pic}
+        INSERT INTO t_user
+        SET uid = #{uid}
+        , upw = #{upw}
+        , nm = #{nm}
+        , pic = #{pic}
     </insert>
+
+    <select id="selUser">
+        SELECT iuser, uid, upw, nm, pic, created_at AS createdAt, updated_at AS updatedAt
+        FROM t_user
+        <where>
+            <if test=" uid != null and uid != '' ">
+                uid = #{uid}
+            </if>
+        </where>
+    </select>
+
+    <delete id="delFollow">
+        delete from t_user_follow
+        where from_iuser = #{fromIuser}
+        and to_iuser = #{toIuser}
+    </delete>
+    <insert id="insFollow">
+        insert into t_user_follow
+        set from_iuser = #{fromIuser}
+        , to_iuser = #{toIuser}
+    </insert>
+    <select id="selUserInfo">
+        SELECT COUNT(DISTINCT f.ifeed) AS feedCnt, COUNT(fav.ifeed) AS favCnt, u.nm, u.pic, u.created_at AS createdAt
+        FROM t_user u
+        LEFT JOIN t_feed f
+        ON u.iuser = f.iuser
+        LEFT JOIN t_feed_fav fav
+        ON fav.iuser = u.iuser
+        LEFT JOIN t_user_follow fo
+        ON fo.from_iuser = fav.iuser
+        and fav.iuser = #{loginedIuser}
+        <if test="targetIuser>0">
+        WHERE u.iuser = #{targetIuser}
+        </if>
+    </select>
 </mapper>
