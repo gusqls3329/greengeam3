@@ -13,6 +13,7 @@ public class UserInfoVo {
     private int following; // 팔로잉 (targetIuser가 팔로우한 상황) 2
     private int followState;
     /*
+    0. 둘다 팔로우를 안함
     1. loginedIuser가 targetIuser를 팔로우한 상황
     2.  targetIuser가 loginedIuser를 팔로우만 한 상황
     3. 둘다 팔로우 한 상황

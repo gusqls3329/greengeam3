@@ -30,17 +30,23 @@
         , to_iuser = #{toIuser}
     </insert>
     <select id="selUserInfo">
-        SELECT COUNT(DISTINCT f.ifeed) AS feedCnt, COUNT(fav.ifeed) AS favCnt, u.nm, u.pic, u.created_at AS createdAt
-        FROM t_user u
-        LEFT JOIN t_feed f
-        ON u.iuser = f.iuser
-        LEFT JOIN t_feed_fav fav
-        ON fav.iuser = u.iuser
-        LEFT JOIN t_user_follow fo
-        ON fo.from_iuser = fav.iuser
-        and fav.iuser = #{loginedIuser}
-        <if test="targetIuser>0">
-        WHERE u.iuser = #{targetIuser}
-        </if>
+        SELECT A.nm, A.pic, A.created_at AS createdAt
+        , COUNT(DISTINCT B.ifeed) AS feedCnt
+        , COUNT(C.ifeed) AS favCnt
+        , D.following, D.follower, D.followState
+        FROM t_user A
+        LEFT JOIN t_feed B
+        ON A.iuser = B.iuser
+        LEFT JOIN t_feed_fav C
+        ON B.ifeed = C.ifeed
+        INNER JOIN (
+        SELECT #{targetIuser} AS iuser
+        , SUM(case from_iuser when #{targetIuser} then 1 ELSE 0 END) AS following
+        , SUM(CASE to_iuser WHEN #{targetIuser} THEN 1 ELSE 0 END) AS follower
+        , (SUM(CASE WHEN from_iuser = #{loginedIuser} AND to_iuser = #{targetIuser} THEN 1 ELSE 0 END)
+        + SUM(CASE WHEN from_iuser = #{targetIuser} AND to_iuser = #{loginedIuser} THEN 2 ELSE 0 END)) AS followState
+        FROM t_user_follow
+        ) AS D
+        ON A.iuser = D.iuser
     </select>
 </mapper>
