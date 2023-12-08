@@ -48,5 +48,6 @@
         FROM t_user_follow
         ) AS D
         ON A.iuser = D.iuser
+        WHERE A.iuser = #{targetIuser}
     </select>
 </mapper>

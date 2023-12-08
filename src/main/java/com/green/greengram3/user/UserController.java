@@ -1,21 +1,16 @@
 package com.green.greengram3.user;
 
 import com.green.greengram3.common.ResVo;
-import com.green.greengram3.user.model.UserFlowDto;
-import com.green.greengram3.user.model.UserSigninDto;
-import com.green.greengram3.user.model.UserSigninVo;
-import com.green.greengram3.user.model.UserSignupDto;
+import com.green.greengram3.user.model.*;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Parameters;
+import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @Slf4j
 @RestController
@@ -41,5 +36,9 @@ public class UserController {
     @PostMapping("/follow")
     public ResVo toggleFollow(@RequestBody UserFlowDto dto){
         return service.toggleFollow(dto);
+    }
+    @GetMapping
+    public UserInfoVo selUserInfo(UserInfoSelDto dto){
+        return service.selUserInfo(dto);
     }
 }

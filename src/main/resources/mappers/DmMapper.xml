@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.green.greengram3.dm.DmMapper">
+    <!--//////////////////////////////////   t_dm -->
+    <insert id="insDm" useGeneratedKeys="true" keyProperty="idm">
+        INSERT INTO t_dm
+        SET last_msg = NULL
+    </insert>
+
+    <select id="selDmAll">
+        SELECT
+        A.idm, A.last_msg AS lastMsg, A.last_msg_at AS lastMsgAt
+        , D.nm AS otherPersonNm, D.pic AS otherPersonPic
+        FROM t_dm A
+        INNER JOIN t_dm_user B
+        ON A.idm = B.idm
+        INNER JOIN t_dm_user C
+        ON B.idm = C.idm
+        INNER JOIN t_user D
+        ON C.iuser = D.iuser
+        WHERE B.iuser = #{loginedIuser}
+        AND C.iuser != #{loginedIuser}
+        ORDER BY A.last_msg_at DESC
+        LIMIT #{startIdx}, #{rowCount}
+    </select>
+    <!-- 1. 내가 속한 방을 찾는다.
+SELECT *
+FROM t_dm_user B
+WHERE B.iuser = 1;
+2. 내가 속한 방에 참여자를 찾는다. (1번째 방법, 조인)
+SELECT C.*
+FROM t_dm_user B
+INNER JOIN t_dm_user C
+ON B.idm = C.idm
+WHERE B.iuser = 1;
+SELECT * FROM t_dm_user
+WHERE idm IN (1, 3);
+ 2. 내가 속한 방에 참여자를 찾는다. (2번째 방법, 서브쿼리)
+SELECT * FROM t_dm_user
+WHERE idm IN (
+	SELECT idm
+	FROM t_dm_user B
+	WHERE B.iuser = 1
+);
+3. 내가 속한 방에서 나를 뺀다.
+SELECT C.*
+FROM t_dm_user B
+INNER JOIN t_dm_user C
+ON B.idm = C.idm
+WHERE B.iuser = 1
+AND C.iuser != 1;
+SELECT * FROM t_dm_user
+WHERE idm IN (1, 3)
+AND iuser != 1;
+ 4. (t_dm) DM방의 정보를 연결한다.
+SELECT
+	A.last_msg, A.last_msg_at
+	, C.*
+FROM t_dm_user B
+INNER JOIN t_dm_user C
+ON B.idm = C.idm
+INNER JOIN t_dm A
+ON C.idm = A.idm
+WHERE B.iuser = 1
+AND C.iuser != 1;
+5. (t_user) 참여자의 정보를 연결한다.
+SELECT
+	A.last_msg, A.last_msg_at
+	, C.*
+	, D.nm, D.pic
+FROM t_dm_user B
+INNER JOIN t_dm_user C
+ON B.idm = C.idm
+INNER JOIN t_dm A
+ON C.idm = A.idm
+INNER JOIN t_user D
+ON C.iuser = D.iuser
+WHERE B.iuser = 1
+AND C.iuser != 1;
+-->
+    <!--//////////////////////////////////   t_dm_user -->
+    <insert id="insDmUser">
+        INSERT INTO t_dm_user
+        SET idm = #{idm}
+        , iuser = #{iuser}
+    </insert>
+
+    <!--//////////////////////////////////   t_dm_msg -->
+    <insert id="insDmMsg">
+        <selectKey resultType="int" keyProperty="seq" order="BEFORE">
+            SELECT IFNULL(MAX(seq), 0) + 1
+            FROM t_dm_msg
+            WHERE idm = #{idm}
+        </selectKey>
+        INSERT INTO t_dm_msg
+        SET idm = #{idm}
+        , seq = #{seq}
+        , iuser = #{loginedIuser}
+        , msg = #{msg}
+    </insert>
+    <select id="selDmMsgAll">
+        SELECT
+        A.seq, A.msg, A.created_at AS createdAt
+        , B.iuser AS writerIuser, B.pic AS writerPic
+        FROM t_dm_msg A
+        INNER JOIN t_user B
+        ON A.iuser = B.iuser
+        WHERE A.idm = #{idm}
+        ORDER BY A.seq DESC
+        LIMIT #{startIdx}, #{rowCount}
+    </select>
+</mapper>

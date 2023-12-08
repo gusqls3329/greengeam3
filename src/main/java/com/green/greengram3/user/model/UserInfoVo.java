@@ -9,8 +9,8 @@ public class UserInfoVo {
     private String nm;
     private String createdAt;
     private String pic;
-    private int follower; // 팔로우수 (targetIuser를 팔로우한 상황) 1
-    private int following; // 팔로잉 (targetIuser가 팔로우한 상황) 2
+    private int follow  ; // 팔로우수 (targetIuser를 팔로우한 상황) 1
+    private int following; // 팔로잉 (targetIuser가 팔로우한 상황) 1
     private int followState;
     /*
     0. 둘다 팔로우를 안함

@@ -60,4 +60,7 @@ public class UserService {
         }
         return new ResVo(Const.FAIL);
     }
+    public UserInfoVo selUserInfo(UserInfoSelDto dto){
+        return mapper.selUserInfo(dto);
+    }
 }
