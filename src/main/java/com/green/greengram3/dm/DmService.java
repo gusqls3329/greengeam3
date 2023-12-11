@@ -1,5 +1,6 @@
 package com.green.greengram3.dm;
 
+import com.green.greengram3.common.Const;
 import com.green.greengram3.common.ResVo;
 import com.green.greengram3.dm.model.*;
 import lombok.RequiredArgsConstructor;
@@ -11,6 +12,8 @@ import java.util.List;
 @RequiredArgsConstructor
 public class DmService {
     private final DmMapper mapper;
+
+
     public List<DmSelVo> getDmAll(DmSelDto dto) {
         return mapper.selDmAll(dto);
     }
@@ -21,6 +24,13 @@ public class DmService {
         return new ResVo(dto.getSeq());
     }
     public List<DmMsgSelVo> getMsgAll(DmMsgSelDto dto) {
-        return null;
+        return mapper.selDmMsgAll(dto);
+    }
+    public ResVo delDmMsg(DmMsgDelDto dto){
+        int result = mapper.delDmMsg(dto);
+        if(result!=1){
+            return new ResVo( Const.FAIL);
+        }
+        return new ResVo( Const.SUCCESS);
     }
 }

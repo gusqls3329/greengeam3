@@ -4,5 +4,5 @@ import lombok.Data;
 
 @Data
 public class DmInsDto {
-    private String last_msg;
+    private int idm;
 }

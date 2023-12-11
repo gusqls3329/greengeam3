@@ -21,8 +21,6 @@ public class DmController {
         return service.getDmAll(dto);
     }
 
-
-
     //----------------------------- t_dm_msg
     @PostMapping("/msg")
     public ResVo postDmMsg(@RequestBody DmMsgInsDto dto) {
@@ -33,7 +31,11 @@ public class DmController {
     public List<DmMsgSelVo> getDmMsgAll(DmMsgSelDto dto) {
         log.info("dto : {}", dto);
         List<DmMsgSelVo> list = new ArrayList();
-        //return service.getMsgAll(dto);
+        list =  service.getMsgAll(dto);
         return list;
+    }
+    @DeleteMapping
+    public ResVo delDmMsg(DmMsgDelDto dto){
+        return service.delDmMsg(dto);
     }
 }

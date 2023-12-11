@@ -6,10 +6,12 @@ import lombok.Data;
 
 @Data
 public class DmSelDto {
-    private int loginrdIuser;
+    private int loginedIuser;
     private int page;
+
     @JsonIgnore
     private int startIdx;
+
     @JsonIgnore
     private int rowCount = Const.DM_COUNT_PER_PAGE;
 

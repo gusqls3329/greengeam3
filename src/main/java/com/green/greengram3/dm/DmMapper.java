@@ -11,12 +11,14 @@ public interface DmMapper {
     int insDm(DmInsDto dto);
     List<DmSelVo> selDmAll(DmSelDto dto);
 
-
-
     //----------------------- t_dm_user
-    int insDmuser(DmUserInsDto dto);
+    int insDmUser(DmUserInsDto dto);
 
     //----------------------- t_dm_msg
     int insDmMsg(DmMsgInsDto dto);
     List<DmMsgSelVo> selDmMsgAll(DmMsgSelDto dto);
+
+    //----------------------- delete t_dm_msg
+    int delDmMsg(DmMsgDelDto dto);
+
 }

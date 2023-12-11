@@ -23,61 +23,7 @@
         ORDER BY A.last_msg_at DESC
         LIMIT #{startIdx}, #{rowCount}
     </select>
-    <!-- 1. 내가 속한 방을 찾는다.
-SELECT *
-FROM t_dm_user B
-WHERE B.iuser = 1;
-2. 내가 속한 방에 참여자를 찾는다. (1번째 방법, 조인)
-SELECT C.*
-FROM t_dm_user B
-INNER JOIN t_dm_user C
-ON B.idm = C.idm
-WHERE B.iuser = 1;
-SELECT * FROM t_dm_user
-WHERE idm IN (1, 3);
- 2. 내가 속한 방에 참여자를 찾는다. (2번째 방법, 서브쿼리)
-SELECT * FROM t_dm_user
-WHERE idm IN (
-	SELECT idm
-	FROM t_dm_user B
-	WHERE B.iuser = 1
-);
-3. 내가 속한 방에서 나를 뺀다.
-SELECT C.*
-FROM t_dm_user B
-INNER JOIN t_dm_user C
-ON B.idm = C.idm
-WHERE B.iuser = 1
-AND C.iuser != 1;
-SELECT * FROM t_dm_user
-WHERE idm IN (1, 3)
-AND iuser != 1;
- 4. (t_dm) DM방의 정보를 연결한다.
-SELECT
-	A.last_msg, A.last_msg_at
-	, C.*
-FROM t_dm_user B
-INNER JOIN t_dm_user C
-ON B.idm = C.idm
-INNER JOIN t_dm A
-ON C.idm = A.idm
-WHERE B.iuser = 1
-AND C.iuser != 1;
-5. (t_user) 참여자의 정보를 연결한다.
-SELECT
-	A.last_msg, A.last_msg_at
-	, C.*
-	, D.nm, D.pic
-FROM t_dm_user B
-INNER JOIN t_dm_user C
-ON B.idm = C.idm
-INNER JOIN t_dm A
-ON C.idm = A.idm
-INNER JOIN t_user D
-ON C.iuser = D.iuser
-WHERE B.iuser = 1
-AND C.iuser != 1;
--->
+
     <!--//////////////////////////////////   t_dm_user -->
     <insert id="insDmUser">
         INSERT INTO t_dm_user
@@ -100,6 +46,8 @@ AND C.iuser != 1;
     </insert>
     <select id="selDmMsgAll">
         SELECT
+        <!--seq를 출력하는 이유 : seq는 테이블에서 순서이며 복합키이다. list를 보낼때는 무조건 pk값을 보내야한다.  -->
+        <!--seq를 출력하는 이유 : pk값을 알아야 내용을 볼 수 있다. 안보내면 안나온다 -->
         A.seq, A.msg, A.created_at AS createdAt
         , B.iuser AS writerIuser, B.pic AS writerPic
         FROM t_dm_msg A
@@ -109,4 +57,11 @@ AND C.iuser != 1;
         ORDER BY A.seq DESC
         LIMIT #{startIdx}, #{rowCount}
     </select>
+    <!--//////////////////////////////////   delete t_dm_msg -->
+    <delete id="delDmMsg">
+        delete from t_dm_msg
+        where idm = #{idm}
+        and iuser = #{iuser}
+        and seq = #{seq}
+    </delete>
 </mapper>
