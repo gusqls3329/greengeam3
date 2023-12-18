@@ -12,13 +12,19 @@ import java.util.List;
 @Slf4j
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("api/dm")
+@RequestMapping("/api/dm")
 public class DmController {
+
     private final DmService service;
 
     @GetMapping
     public List<DmSelVo> getDmAll(DmSelDto dto) {
         return service.getDmAll(dto);
+    }
+
+    @PostMapping
+    public DmSelVo postDm(@RequestBody DmInsDto dto) {
+        return service.postDm(dto);
     }
 
     //----------------------------- t_dm_msg
@@ -29,13 +35,13 @@ public class DmController {
 
     @GetMapping("/msg")
     public List<DmMsgSelVo> getDmMsgAll(DmMsgSelDto dto) {
-        log.info("dto : {}", dto);
-        List<DmMsgSelVo> list = new ArrayList();
-        list =  service.getMsgAll(dto);
-        return list;
+        log.info("dto: {}", dto);
+        return service.getMsgAll(dto);
     }
-    @DeleteMapping
-    public ResVo delDmMsg(DmMsgDelDto dto){
+
+    @DeleteMapping("/msg")
+    public ResVo delDmMsg(DmMsgDelDto dto) {
+        log.info("dto: {}", dto);
         return service.delDmMsg(dto);
     }
 }

@@ -52,7 +52,6 @@ public class FeedService {
     public ResVo delFeed(FeedDelDto dto) {
         //1 이미지
         int picsAffectedRows = picsMapper.delFeedPicsAll(dto);
-        log.info("{}",picsAffectedRows);
         if(picsAffectedRows == 0) {
             return new ResVo(Const.FAIL);
         }

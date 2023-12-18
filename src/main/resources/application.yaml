@@ -11,3 +11,6 @@ mybatis:
 springdoc:
   swagger-ui:
     path: /swagger.html
+
+fcm:
+  certification: serviceAccountKey.json

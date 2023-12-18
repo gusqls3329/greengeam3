@@ -1476,7 +1476,7 @@ Caused by: java.lang.NoClassDefFoundError: com/green/greengram3/user/model/UserF
 	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
 	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
 	... 26 common frames omitted
-Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFlowDto
+Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFollowDto
 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
@@ -1536,7 +1536,7 @@ Caused by: java.lang.NoClassDefFoundError: com/green/greengram3/user/model/UserF
 	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
 	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
 	... 26 common frames omitted
-Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFlowDto
+Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFollowDto
 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
@@ -1596,7 +1596,7 @@ Caused by: java.lang.NoClassDefFoundError: com/green/greengram3/user/model/UserF
 	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
 	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
 	... 26 common frames omitted
-Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFlowDto
+Caused by: java.lang.ClassNotFoundException: com.green.greengram3.user.model.UserFollowDto
 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)

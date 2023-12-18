@@ -3,8 +3,6 @@ package com.green.greengram3.dm.model;
 import lombok.Data;
 
 @Data
-public class DmMsgDelDto {
+public class DmMsgPushVo extends DmMsgSelVo {
     private int idm;
-    private int iuser;
-    private int seq;
 }

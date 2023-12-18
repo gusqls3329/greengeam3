@@ -1,0 +1,1176 @@
+[2023-12-15 09:51:15 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 09:51:15 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 09:51:15 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 09:51:15 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 860 ms[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 09:51:16 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.828 seconds (process running for 2.373)[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m Thread-5] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:09:47 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 197 ms[0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.394 seconds (process running for 1113.539)[0;39m
+[2023-12-15 10:09:48 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m Thread-7] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:10:42 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 161 ms[0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.299 seconds (process running for 1168.463)[0;39m
+[2023-12-15 10:10:43 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:15:26 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 2 class path changes (1 addition, 0 deletions, 1 modification)[0;39m
+[2023-12-15 10:15:26 [32mINFO [0;39m Thread-11] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:15:26 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:15:26 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 164 ms[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.334 seconds (process running for 1452.688)[0;39m
+[2023-12-15 10:15:27 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 48 class path changes (0 additions, 47 deletions, 1 modification)[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m Thread-15] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:16:53 [33mWARN [0;39m restartedMain] [org.mybatis.spring.mapper.ClassPathMapperScanner] [36mNo MyBatis mapper was found in '[com.green.greengram3]' package. Please check your configuration.[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 167 ms[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:16:53 [33mWARN [0;39m restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception with message: com/green/greengram3/dm/model/DmUserInsDto[0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStopping service [Tomcat][0;39m
+[2023-12-15 10:16:53 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-15 10:16:53 [31mERROR[0;39m restartedMain] [org.springframework.boot.SpringApplication] [36mApplication run failed[0;39m
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception with message: com/green/greengram3/dm/model/DmUserInsDto
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:643)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1166)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:946)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.green.greengram3.Greengram3Application.main(Greengram3Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception with message: com/green/greengram3/dm/model/DmUserInsDto
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:178)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	... 24 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com/green/greengram3/dm/model/DmUserInsDto
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.privateGetPublicMethods(Class.java:3427)
+	at java.base/java.lang.Class.getMethods(Class.java:2019)
+	at org.apache.ibatis.builder.annotation.MapperAnnotationBuilder.getMethodReturnType(MapperAnnotationBuilder.java:649)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:108)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:143)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:135)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:125)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:100)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:698)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:577)
+	at org.mybatis.spring.SqlSessionFactoryBean.getObject(SqlSessionFactoryBean.java:720)
+	at org.mybatis.spring.boot.autoconfigure.MybatisAutoConfiguration.sqlSessionFactory(MybatisAutoConfiguration.java:189)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:140)
+	... 25 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.green.greengram3.dm.model.DmUserInsDto
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 44 common frames omitted
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 145 ms[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.273 seconds (process running for 1541.027)[0;39m
+[2023-12-15 10:16:55 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m Thread-19] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 148 ms[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.287 seconds (process running for 1657.786)[0;39m
+[2023-12-15 10:18:52 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:31:11 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)[0;39m
+[2023-12-15 10:31:11 [32mINFO [0;39m Thread-26] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:31:11 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2096 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:31:11 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 170 ms[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.323 seconds (process running for 2397.621)[0;39m
+[2023-12-15 10:31:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 6700 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 819 ms[0;39m
+[2023-12-15 10:36:08 [33mWARN [0;39m restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed[0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStopping service [Tomcat][0;39m
+[2023-12-15 10:36:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-15 10:36:08 [31mERROR[0;39m restartedMain] [org.springframework.boot.SpringApplication] [36mApplication run failed[0;39m
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:946)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.green.greengram3.Greengram3Application.main(Greengram3Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'fcm.certification' in value "${fcm.certification}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:921)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1348)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:769)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:752)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493)
+	... 22 common frames omitted
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3820 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 809 ms[0;39m
+[2023-12-15 11:07:04 [33mWARN [0;39m restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed[0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStopping service [Tomcat][0;39m
+[2023-12-15 11:07:04 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-15 11:07:04 [31mERROR[0;39m restartedMain] [org.springframework.boot.SpringApplication] [36mApplication run failed[0;39m
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:946)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.green.greengram3.Greengram3Application.main(Greengram3Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'fcm.certification' in value "${fcm.certification}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:921)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1348)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:769)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:752)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493)
+	... 22 common frames omitted
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 9976 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 806 ms[0;39m
+[2023-12-15 11:09:10 [33mWARN [0;39m restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed[0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStopping service [Tomcat][0;39m
+[2023-12-15 11:09:10 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-15 11:09:10 [31mERROR[0;39m restartedMain] [org.springframework.boot.SpringApplication] [36mApplication run failed[0;39m
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:946)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.green.greengram3.Greengram3Application.main(Greengram3Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'fcm.certification' in value "${fcm.certification}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:921)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1348)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:769)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:752)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493)
+	... 22 common frames omitted
+[2023-12-15 11:10:31 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 5168 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 11:10:31 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 11:10:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 11:10:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 801 ms[0;39m
+[2023-12-15 11:10:32 [33mWARN [0;39m restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed[0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStopping service [Tomcat][0;39m
+[2023-12-15 11:10:32 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-15 11:10:32 [31mERROR[0;39m restartedMain] [org.springframework.boot.SpringApplication] [36mApplication run failed[0;39m
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'firebaseConfiguration': Injection of autowired dependencies failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:499)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:946)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.green.greengram3.Greengram3Application.main(Greengram3Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'fcm.certification' in value "${fcm.certification}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:180)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:200)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:921)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1348)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:769)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:752)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:493)
+	... 22 common frames omitted
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2996 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 804 ms[0;39m
+[2023-12-15 11:12:11 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 11:12:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 11:12:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 11:12:12 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 11:12:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 11:12:12 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.743 seconds (process running for 2.184)[0;39m
+[2023-12-15 11:12:17 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 11:12:17 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 11:12:17 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-15 11:12:18 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:12:18 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 11:12:18 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@5141de46[0;39m
+[2023-12-15 11:12:18 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 11:12:34 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=bob, upw=1212)[0;39m
+[2023-12-15 11:12:34 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:13:10 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:13:30 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=bob, upw=1212)[0;39m
+[2023-12-15 11:13:30 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:20:28 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=1212)[0;39m
+[2023-12-15 11:20:29 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:20:53 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:21:02 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=1212)[0;39m
+[2023-12-15 11:21:02 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:21:37 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=hush, upw=1212)[0;39m
+[2023-12-15 11:21:37 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:34:14 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 11:34:32 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=hush, upw=1212)[0;39m
+[2023-12-15 11:34:32 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m Thread-5] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2996 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 211 ms[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.394 seconds (process running for 3538.606)[0;39m
+[2023-12-15 12:11:08 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-15 12:16:01 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 9376 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 12:16:01 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 12:16:01 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 12:16:01 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 834 ms[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 12:16:02 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.81 seconds (process running for 2.34)[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-2] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@64821a1c[0;39m
+[2023-12-15 12:16:20 [32mINFO [0;39m http-nio-8080-exec-2] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 12:16:26 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:16:37 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=4545)[0;39m
+[2023-12-15 12:16:41 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=1212)[0;39m
+[2023-12-15 12:16:41 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:17:41 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:17:56 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=2, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:18:28 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 12:18:28 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 12:18:30 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 9568 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 12:18:30 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 12:18:30 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 12:18:30 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 840 ms[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 12:18:31 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.814 seconds (process running for 2.306)[0;39m
+[2023-12-15 12:18:36 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:18:36 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:18:36 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-15 12:18:45 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=1212)[0;39m
+[2023-12-15 12:18:45 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 12:18:45 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@71919c52[0;39m
+[2023-12-15 12:18:45 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 12:18:45 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:19:20 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=ddong, upw=1212)[0;39m
+[2023-12-15 12:19:20 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:20:00 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:20:01 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:21:25 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=pp, upw=)[0;39m
+[2023-12-15 12:21:41 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=ddong, upw=1212)[0;39m
+[2023-12-15 12:21:41 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:23:59 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:35:26 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=5, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:35:26 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=5, targetIuser=0, isFavList=1, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:35:26 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.user.UserController] [36mdto: UserInfoSelDto(targetIuser=5, loginedIuser=5)[0;39m
+[2023-12-15 12:35:49 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.user.UserController] [36mdto: UserSigninDto(uid=bob, upw=1212)[0;39m
+[2023-12-15 12:35:49 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:35:53 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:36:04 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.dm.DmService] [36mbody: {"seq":16,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"뭐하냐고","createdAt":"2023-12-15 12:36:04","idm":3}[0;39m
+[2023-12-15 12:36:08 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:36:20 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:36:44 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmService] [36mbody: {"seq":17,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"1231321","createdAt":"2023-12-15 12:36:44","idm":3}[0;39m
+[2023-12-15 12:37:02 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:37:08 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:37:13 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.dm.DmService] [36mbody: {"seq":18,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"알바중","createdAt":"2023-12-15 12:37:13","idm":3}[0;39m
+[2023-12-15 12:37:19 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:37:23 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmService] [36mbody: {"seq":19,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"집게리아?","createdAt":"2023-12-15 12:37:23","idm":3}[0;39m
+[2023-12-15 12:37:25 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:37:29 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmService] [36mbody: {"seq":20,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"재밌어?","createdAt":"2023-12-15 12:37:29","idm":3}[0;39m
+[2023-12-15 12:37:33 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:37:39 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmService] [36mbody: {"seq":21,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"당연하지","createdAt":"2023-12-15 12:37:39","idm":3}[0;39m
+[2023-12-15 12:37:48 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.dm.DmService] [36mbody: {"seq":22,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"꺄하하하하하","createdAt":"2023-12-15 12:37:48","idm":3}[0;39m
+[2023-12-15 12:37:49 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:38:44 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmService] [36mbody: {"seq":23,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"ㅎㅇㅎㅇ","createdAt":"2023-12-15 12:38:44","idm":3}[0;39m
+[2023-12-15 12:38:54 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmService] [36mbody: {"seq":24,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"안녕","createdAt":"2023-12-15 12:38:54","idm":3}[0;39m
+[2023-12-15 12:39:08 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.user.UserController] [36mdto: UserInfoSelDto(targetIuser=3, loginedIuser=4)[0;39m
+[2023-12-15 12:39:08 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=3, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:39:08 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=1, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:39:08 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=3, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:39:10 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:39:10 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=30, rowCount=30)[0;39m
+[2023-12-15 12:39:13 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:39:18 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmService] [36mbody: {"seq":25,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"안녕","createdAt":"2023-12-15 12:39:18","idm":3}[0;39m
+[2023-12-15 12:44:46 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 12:44:46 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 12:44:49 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 5420 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 12:44:49 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 12:44:49 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 12:44:49 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 930 ms[0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 12:44:50 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 12:44:51 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 12:44:51 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 12:44:51 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 12:44:51 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.99 seconds (process running for 2.497)[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@673a81bb[0;39m
+[2023-12-15 12:45:03 [32mINFO [0;39m http-nio-8080-exec-3] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 12:45:04 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:45:15 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto: DmMsgDelDto(idm=3, iuser=3, seq=23)[0;39m
+[2023-12-15 12:45:18 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgDelDto(idm=3, iuser=3, seq=24)[0;39m
+[2023-12-15 12:45:20 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto: DmMsgDelDto(idm=3, iuser=4, seq=25)[0;39m
+[2023-12-15 12:45:35 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.user.UserController] [36mdto: UserInfoSelDto(targetIuser=4, loginedIuser=4)[0;39m
+[2023-12-15 12:45:35 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=1, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:45:35 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=4, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:45:37 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:45:54 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmService] [36mbody: {"seq":23,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"오늘은 언제 올거야?","createdAt":"2023-12-15 12:45:54","idm":3}[0;39m
+[2023-12-15 12:46:00 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.dm.DmService] [36mbody: {"seq":24,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"곧 점심시간이니까","createdAt":"2023-12-15 12:46:00","idm":3}[0;39m
+[2023-12-15 12:46:04 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.dm.DmService] [36mbody: {"seq":25,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"지금 출발할거야","createdAt":"2023-12-15 12:46:04","idm":3}[0;39m
+[2023-12-15 12:46:10 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.dm.DmService] [36mbody: {"seq":26,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"내꺼 5개 만들어줘","createdAt":"2023-12-15 12:46:10","idm":3}[0;39m
+[2023-12-15 12:46:12 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.dm.DmService] [36mbody: {"seq":27,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"히히","createdAt":"2023-12-15 12:46:12","idm":3}[0;39m
+[2023-12-15 12:46:14 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:15 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:26 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:29 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:31 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.dm.DmService] [36mbody: {"seq":28,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"ㅋㅋㅋㅋㅋㅋㅋㅋ","createdAt":"2023-12-15 12:46:31","idm":3}[0;39m
+[2023-12-15 12:46:33 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.dm.DmService] [36mbody: {"seq":29,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"그래","createdAt":"2023-12-15 12:46:33","idm":3}[0;39m
+[2023-12-15 12:46:41 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmService] [36mbody: {"seq":30,"writerIuser":3,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20220928_113%2F1664325871458RxL0N_JPEG%2F087ea38a-0d98-4a98-950e-319bd9b4da51_134496_7.jpg&type=a340","msg":"난 일할게","createdAt":"2023-12-15 12:46:41","idm":3}[0;39m
+[2023-12-15 12:46:42 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:44 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 12:46:44 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=3, startIdx=30, rowCount=30)[0;39m
+[2023-12-15 12:46:49 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.dm.DmService] [36mbody: {"seq":31,"writerIuser":4,"writerPic":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MDdfNzUg%2FMDAxNjI4MzIzODE5MjE3.KEXlqeTk-4_b4ohnb1dIY4s0kdsmNn8qKoi3Hnl5WHsg.MqcXuoJM70Nj2DDWdLKEixduFxXZBshUb3KIeUkQi-cg.JPEG.lama0909%2F546.jpg&type=a340","msg":"나중에봐","createdAt":"2023-12-15 12:46:49","idm":3}[0;39m
+[2023-12-15 12:46:51 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:46 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=6, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:48 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:48 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=30, rowCount=30)[0;39m
+[2023-12-15 13:09:50 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=6, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:51 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:51 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=30, rowCount=30)[0;39m
+[2023-12-15 13:09:52 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:52 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=4, startIdx=30, rowCount=30)[0;39m
+[2023-12-15 13:09:53 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=6, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:09:55 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:01 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.user.UserController] [36mdto: UserInfoSelDto(targetIuser=2, loginedIuser=4)[0;39m
+[2023-12-15 13:10:01 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=2, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:01 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=1, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:03 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:12 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:17 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:22 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:32 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:48 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:10:54 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:11:02 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:11:45 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:11:49 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:11:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 13:11:59 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 13:12:01 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 9984 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 13:12:01 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 13:12:01 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 13:12:01 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 919 ms[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.942 seconds (process running for 2.411)[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@6cdcfd84[0;39m
+[2023-12-15 13:12:02 [32mINFO [0;39m http-nio-8080-exec-1] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 13:12:12 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:13:05 [32mINFO [0;39m http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:13:21 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.dm.DmService] [36misExistDm: null[0;39m
+[2023-12-15 13:13:21 [32mINFO [0;39m http-nio-8080-exec-1] [com.green.greengram3.dm.DmService] [36misExistDm: null[0;39m
+[2023-12-15 13:13:21 [32mINFO [0;39m http-nio-8080-exec-2] [com.green.greengram3.dm.DmService] [36misExistDm: null[0;39m
+[2023-12-15 13:13:21 [31mERROR[0;39m http-nio-8080-exec-4] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 13:14:02 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 13:14:02 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 13:14:05 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 4756 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 13:14:05 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 13:14:05 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 13:14:05 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 13:14:06 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1310 ms[0;39m
+[2023-12-15 13:14:07 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 13:14:11 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 13:14:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 13:14:12 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:14:12 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 13:14:12 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 6.857 seconds (process running for 7.741)[0;39m
+[2023-12-15 13:14:16 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:14:16 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:14:16 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-15 13:14:16 [32mINFO [0;39m http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=4, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:14:24 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 13:14:24 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@74d14750[0;39m
+[2023-12-15 13:14:24 [32mINFO [0;39m http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 13:15:34 [33mWARN [0;39m HikariPool-1 housekeeper] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m10s155ms55µs200ns).[0;39m
+[2023-12-15 13:15:37 [31mERROR[0;39m http-nio-8080-exec-8] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 13:15:37 [31mERROR[0;39m http-nio-8080-exec-9] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 13:15:45 [31mERROR[0;39m http-nio-8080-exec-10] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 3
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 13:16:32 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 13:16:32 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-15 13:16:35 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 8136 (D:\2023\java\greengram3\target\classes started by Administrator in D:\2023\java\greengram3)[0;39m
+[2023-12-15 13:16:35 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-15 13:16:35 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-15 13:16:35 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1176 ms[0;39m
+[2023-12-15 13:16:36 [32mINFO [0;39m restartedMain] [com.green.greengram3.common.FirebaseConfiguration] [36mFirebaseApp Initialization Complete !!![0;39m
+[2023-12-15 13:16:37 [32mINFO [0;39m restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-15 13:16:37 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-15 13:16:37 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-15 13:16:37 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-15 13:16:37 [32mINFO [0;39m restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 2.58 seconds (process running for 3.174)[0;39m
+[2023-12-15 13:17:05 [32mINFO [0;39m http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:17:05 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-15 13:17:05 [32mINFO [0;39m http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
+[2023-12-15 13:17:06 [32mINFO [0;39m http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:17:06 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-15 13:17:06 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@13d6e14a[0;39m
+[2023-12-15 13:17:06 [32mINFO [0;39m http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-15 13:17:12 [32mINFO [0;39m http-nio-8080-exec-9] [com.green.greengram3.dm.DmService] [36misExistDm: null[0;39m
+[2023-12-15 13:17:31 [32mINFO [0;39m http-nio-8080-exec-8] [com.green.greengram3.dm.DmService] [36misExistDm: null[0;39m
+[2023-12-15 13:18:10 [32mINFO [0;39m http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=10, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:19:00 [32mINFO [0;39m http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 13:19:19 [31mERROR[0;39m http-nio-8080-exec-6] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 13:19:19 [31mERROR[0;39m http-nio-8080-exec-7] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 15:11:38 [33mWARN [0;39m HikariPool-1 housekeeper] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m54s124ms160µs200ns).[0;39m
+[2023-12-15 15:11:38 [32mINFO [0;39m http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto: DmMsgSelDto(page=0, idm=10, startIdx=0, rowCount=30)[0;39m
+[2023-12-15 15:11:38 [31mERROR[0;39m http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.mybatis.spring.MyBatisSystemException] with root cause[0;39m
+org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:81)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:87)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy79.selDmUserCheck(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDm(DmService.java:38)
+	at com.green.greengram3.dm.DmController.postDm(DmController.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-15 15:11:38 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-15 15:11:38 [32mINFO [0;39m SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
