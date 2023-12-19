@@ -25,26 +25,29 @@ class FeedFavMapperTest { // 트렌젝션에 걸려서 롤백됨 (값이 들어�
         dto.setIfeed(97);
         dto.setIuser(2);
 
+        List<FeedFavDto> result = mapper.selFeedFavForTest(dto); // 없었는지 확인
+        assertEquals(0,result.size());
+
         int affectRows1 = mapper.insFeedFav(dto);
         assertEquals(1,affectRows1,"첫 insert");
 
-        List<FeedFavDto> result = mapper.selFeedFavForTest(dto);
-        assertEquals(0,result.size());
+        List<FeedFavDto> result2 = mapper.selFeedFavForTest(dto);
+        assertEquals(1,result2.size());
 
         dto.setIfeed(5);
         dto.setIuser(2);
         int affectRows2 = mapper.insFeedFav(dto);
         assertEquals(1,affectRows2);
 
-        List<FeedFavDto>  result2 = mapper.selFeedFavForTest(dto);
-        assertEquals(1,result2.size());
+        List<FeedFavDto>  result3 = mapper.selFeedFavForTest(dto);
+        assertEquals(1,result3.size());
     }
 
     @Test
     public void delFeedFavTest(){
         FeedFavDto dto = new FeedFavDto();
         dto.setIfeed(97);
-        dto.setIuser(4);
+        dto.setIuser(1);
 
         int affectRows1 = mapper.delFeedFav(dto); //삭제가 가능했으면 1
         assertEquals(1,affectRows1);
@@ -74,5 +77,6 @@ class FeedFavMapperTest { // 트렌젝션에 걸려서 롤백됨 (값이 들어�
 
         List<FeedFavDto> result2 = mapper.selFeedFavForTest(dto1);
         assertEquals(0,result2.size());
+        ;
     }
 }
