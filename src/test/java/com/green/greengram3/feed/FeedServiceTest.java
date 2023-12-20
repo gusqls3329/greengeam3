@@ -92,15 +92,9 @@ class FeedServiceTest {
 
         assertEquals(list,result); //ture라면 list만 검증하기
 
-        for (int i = 0; i < result.size(); i++) {
-            FeedSelVo vo = list.get(i);
-            assertNotNull(vo.getPics());
+        for (FeedSelVo vo : list) {
+            assertNotNull(vo.getPics()); // pics에 값이 잘 담아졌는지 확인
 
-            FeedSelVo rvo = result.get(i);
-            FeedSelVo pVo = list.get(i);
-
-            assertEquals(pVo.getIfeed(),rvo.getIfeed());
-            assertEquals(pVo.getContents(),rvo.getContents());
         }
     }
 

@@ -14,3 +14,20 @@ public interface FeedMapper {
     List<FeedSelVo> selFeedAll(FeedSelDto p);
     int delFeed(FeedDelDto dto);
 }
+/*class FeedMapperImp implements FeedMapper {
+    @Override
+    public int insFeed(FeedInsDto p) {
+        return 0;
+    }
+
+    @Override
+    public List<FeedSelVo> selFeedAll(FeedSelDto p) {
+        return null;
+    }
+
+    @Override
+    public int delFeed(FeedDelDto dto) {
+        return 0;
+    }
+}*/
+
