@@ -22,8 +22,9 @@ public class FeedService {
 
     public ResVo postFeed(FeedInsDto dto) {
         int feedAffectedRows = mapper.insFeed(dto);
+        log.info("feedAffectedRows : {}",feedAffectedRows);
         int feedPicsAffectedRows = picsMapper.insFeedPics(dto);
-
+        log.info("feedPicsAffectedRows : {}",feedPicsAffectedRows);
         return new ResVo(dto.getIfeed());
     }
 

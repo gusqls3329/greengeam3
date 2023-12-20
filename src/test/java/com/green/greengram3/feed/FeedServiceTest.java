@@ -2,6 +2,11 @@ package com.green.greengram3.feed;
 
 import com.green.greengram3.common.ResVo;
 import com.green.greengram3.feed.model.FeedInsDto;
+import com.green.greengram3.feed.model.FeedSelDto;
+import com.green.greengram3.feed.model.FeedSelVo;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,16 +14,21 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.context.annotation.Import;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
-@ExtendWith(SpringExtension.class)
-@Import({FeedService.class})
+@ExtendWith(SpringExtension.class) // 스프링컨테이너를 사용할 수 있도록
+@Import({FeedService.class}) // 특정한 class를 사용 할 수 있도록 빈등록
+//만약 위 두 어노테이션이 없다면,아래  @Autowired service를 사용할 수 없다.
 class FeedServiceTest {
 
-    @MockBean //가짜 빈
+    @MockBean //가짜 빈을 만들어서 객체의 주소값을 service에 밀어 줄수 있도록
     private FeedMapper mapper;
 
     @MockBean
@@ -55,6 +65,43 @@ class FeedServiceTest {
 
     @Test
     void getFeedAll() {
+        FeedSelVo feedSelVo1 = new FeedSelVo();
+        feedSelVo1.setIfeed(1);
+        feedSelVo1.setContents("1번 feedSelVo");
+
+        FeedSelVo feedSelVo2 = new FeedSelVo();
+        feedSelVo2.setIfeed(2);
+        feedSelVo2.setContents("2번 feedSelVo");
+
+        List<FeedSelVo> list = new ArrayList<>();
+        list.add(feedSelVo1);
+        list.add(feedSelVo2);
+
+        when(mapper.selFeedAll(any())).thenReturn(list);
+
+        List<String> feed1Pics = Arrays.stream(new String[]{"a.jpg","b.jpg"}).toList(); //배열을 리스트로 변경
+
+        List<String> feed2Pics = new ArrayList<>();
+        feed2Pics.add("가.jpg");
+        feed2Pics.add("나.jpg");
+        when( picsMapper.selFeedPicsAll(1)).thenReturn(feed1Pics);
+        when( picsMapper.selFeedPicsAll(2)).thenReturn(feed2Pics);
+
+        FeedSelDto dto  = new FeedSelDto();
+        List<FeedSelVo> result = service.getFeedAll(dto);
+
+        assertEquals(list,result); //ture라면 list만 검증하기
+
+        for (int i = 0; i < result.size(); i++) {
+            FeedSelVo vo = list.get(i);
+            assertNotNull(vo.getPics());
+
+            FeedSelVo rvo = result.get(i);
+            FeedSelVo pVo = list.get(i);
+
+            assertEquals(pVo.getIfeed(),rvo.getIfeed());
+            assertEquals(pVo.getContents(),rvo.getContents());
+        }
     }
 
     @Test
