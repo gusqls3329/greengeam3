@@ -34,7 +34,7 @@ public class FeedService {
         FeedCommentSelDto fcDto = new FeedCommentSelDto();
         fcDto.setStartIdx(0);
         fcDto.setRowCount(Const.FEED_COMMENT_FIRST_CNT);
-        for(FeedSelVo vo : list) {
+        for (FeedSelVo vo : list) {
             List<String> pics = picsMapper.selFeedPicsAll(vo.getIfeed());
             vo.setPics(pics);
 
@@ -42,7 +42,7 @@ public class FeedService {
             List<FeedCommentSelVo> comments = commentMapper.selFeedCommentAll(fcDto);
             vo.setComments(comments);
 
-            if(comments.size() == Const.FEED_COMMENT_FIRST_CNT) {
+            if (comments.size() == Const.FEED_COMMENT_FIRST_CNT) {
                 vo.setIsMoreComment(1);
                 comments.remove(comments.size() - 1);
             }

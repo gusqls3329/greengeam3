@@ -36,4 +36,6 @@ public class Exam1 {
         Assertions.assertEquals(20, myUtils.multi(4,5));
         Assertions.assertEquals(30, myUtils.multi(5,6));
     }
+
+
 }
