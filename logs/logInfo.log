@@ -1,207 +1,246 @@
-[2023-12-22 10:50:15 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 4720 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:50:15 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:50:16 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:50:16 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:50:16 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:50:16 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 10:50:16 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 2.023 seconds (process running for 2.836)
-[2023-12-22 10:51:07 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6844 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:51:07 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:51:09 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:51:09 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:51:09 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:51:09 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 10:51:09 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.847 seconds (process running for 2.663)
-[2023-12-22 10:53:04 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6816 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:53:04 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:53:05 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:53:05 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:53:05 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:53:05 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 10:53:05 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.89 seconds (process running for 2.698)
-[2023-12-22 10:53:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5540 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:53:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:53:35 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:53:35 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:53:35 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:53:35 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 2 ms
-[2023-12-22 10:53:35 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.882 seconds (process running for 2.721)
-[2023-12-22 10:55:48 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 2000 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:55:48 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:55:49 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:55:49 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:55:49 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:55:49 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 10:55:49 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.754 seconds (process running for 2.557)
-[2023-12-22 10:56:22 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 740 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 10:56:22 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 10:56:23 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 10:56:24 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 10:56:24 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 10:56:24 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 10:56:24 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.767 seconds (process running for 2.574)
-[2023-12-22 11:16:31 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6236 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:16:31 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:16:32 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:16:33 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:16:33 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:16:33 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 11:16:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.738 seconds (process running for 2.553)
-[2023-12-22 11:49:36 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 9224 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:49:36 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:49:37 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:49:37 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:49:37 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:49:37 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 11:49:37 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.742 seconds (process running for 2.532)
-[2023-12-22 11:52:23 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6388 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:52:23 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:52:24 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:52:24 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:52:24 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:52:24 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 11:52:24 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.749 seconds (process running for 2.557)
-[2023-12-22 11:52:46 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 1168 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:52:46 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:52:47 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:52:47 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:52:47 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:52:47 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 11:52:47 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.718 seconds (process running for 2.513)
-[2023-12-22 11:52:48 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 11:54:37 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5424 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:54:37 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:54:38 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:54:38 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:54:38 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:54:38 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 11:54:38 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.721 seconds (process running for 2.522)
-[2023-12-22 11:54:38 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 11:54:58 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 1200 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:54:58 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:54:59 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:55:00 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:55:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:55:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 11:55:00 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.721 seconds (process running for 2.581)
-[2023-12-22 11:55:00 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 11:59:50 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 3044 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 11:59:50 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 11:59:51 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 11:59:51 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 11:59:51 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 11:59:51 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 11:59:51 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.745 seconds (process running for 2.643)
-[2023-12-22 11:59:51 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:00:09 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 4264 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:00:09 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:00:10 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:00:10 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:00:10 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:00:10 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 12:00:10 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.741 seconds (process running for 2.567)
-[2023-12-22 12:00:10 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:00:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 10120 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:00:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:00:34 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:00:34 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:00:34 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:00:34 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:00:34 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.741 seconds (process running for 2.584)
-[2023-12-22 12:00:34 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:10:29 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5060 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:10:29 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:10:30 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:10:31 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:10:31 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:10:31 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:10:31 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.722 seconds (process running for 2.531)
-[2023-12-22 12:10:31 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:12:55 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6496 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:12:55 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:12:56 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:12:56 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:12:56 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:12:56 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:12:56 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.719 seconds (process running for 2.522)
-[2023-12-22 12:12:56 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:13:05 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5064 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:13:05 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:13:06 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:13:06 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:13:06 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:13:06 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:13:06 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.714 seconds (process running for 2.514)
-[2023-12-22 12:13:07 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:27:32 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5616 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:27:32 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:27:33 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:27:33 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:27:33 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:27:33 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:27:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.8 seconds (process running for 2.717)
-[2023-12-22 12:27:33 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 12:50:53 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5836 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 12:50:53 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 12:50:54 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 12:50:54 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 12:50:54 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 12:50:54 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 12:50:54 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.78 seconds (process running for 2.636)
-[2023-12-22 12:50:54 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:00:01 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 1488 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:00:01 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:00:02 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:00:02 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:00:02 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:00:02 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:00:02 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.725 seconds (process running for 2.521)
-[2023-12-22 13:00:02 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:00:21 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5988 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:00:21 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:00:22 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:00:22 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:00:22 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:00:22 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:00:22 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.717 seconds (process running for 2.529)
-[2023-12-22 13:00:22 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:01:18 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 3248 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:01:18 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:01:20 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:01:20 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:01:20 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:01:20 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
-[2023-12-22 13:01:20 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.738 seconds (process running for 2.591)
-[2023-12-22 13:01:20 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:01:40 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6116 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:01:40 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:01:41 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:01:41 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:01:41 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:01:41 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:01:41 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.73 seconds (process running for 2.561)
-[2023-12-22 13:01:41 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:01:58 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 6444 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:01:58 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:02:00 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:02:00 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:02:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:02:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:02:00 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.719 seconds (process running for 2.523)
-[2023-12-22 13:02:00 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
-[2023-12-22 13:02:49 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 9180 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:02:49 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:02:50 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:02:51 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:02:51 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:02:51 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:02:51 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.714 seconds (process running for 2.526)
-[2023-12-22 13:02:51 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedDelDto(ifeed=1, iuser=2)
-[2023-12-22 13:03:03 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 5916 (started by Administrator in D:\2023\java\greengram3)
-[2023-12-22 13:03:03 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
-[2023-12-22 13:03:05 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
-[2023-12-22 13:03:05 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
-[2023-12-22 13:03:05 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
-[2023-12-22 13:03:05 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
-[2023-12-22 13:03:05 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.7 seconds (process running for 2.543)
-[2023-12-22 13:03:05 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedDelDto(ifeed=1, iuser=2)
+[2024-01-02 11:10:10 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 7852 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 11:10:10 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 11:10:11 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 11:10:11 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 11:10:11 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 11:10:11 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 11:10:11 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.95 seconds (process running for 2.886)
+[2024-01-02 11:10:11 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedDelDto(ifeed=1, iuser=2)
+[2024-01-02 11:12:25 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 4800 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 11:12:25 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 11:12:27 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 11:12:27 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 11:12:27 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 11:12:27 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 11:12:27 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.736 seconds (process running for 2.541)
+[2024-01-02 11:12:27 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedDelDto(ifeed=1, iuser=2)
+[2024-01-02 11:14:21 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 2020 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 11:14:21 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 11:14:23 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 11:14:23 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 11:14:23 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 11:14:23 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 11:14:23 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.727 seconds (process running for 2.531)
+[2024-01-02 11:14:23 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
+[2024-01-02 11:14:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Starting FeedControllerTest using Java 17.0.8.1 with PID 7320 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 11:14:33 INFO  main] [com.green.greengram3.feed.FeedControllerTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 11:14:34 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 11:14:35 INFO  main] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 11:14:35 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 11:14:35 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 11:14:35 INFO  main] [com.green.greengram3.feed.FeedControllerTest] Started FeedControllerTest in 1.737 seconds (process running for 2.524)
+[2024-01-02 11:14:35 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=30)
+[2024-01-02 11:14:35 INFO  main] [com.green.greengram3.feed.FeedController] dto: FeedDelDto(ifeed=1, iuser=2)
+[2024-01-02 13:00:43 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 6124 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:00:43 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:00:44 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:00:44 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:00:44 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:00:44 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:00:44 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:00:44 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 984 ms
+[2024-01-02 13:00:44 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:00:45 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:00:45 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:00:45 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:00:45 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:00:45 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:00:45 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 51946 (http) with context path ''
+[2024-01-02 13:00:45 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 2.082 seconds (process running for 2.926)
+[2024-01-02 13:00:45 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:00:45 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@39ae6408
+[2024-01-02 13:00:45 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:00:46 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:00:46 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:00:46 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:00:46 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:04:19 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 8024 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:04:19 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:04:20 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:04:20 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:04:20 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:04:20 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:04:20 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:04:20 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 957 ms
+[2024-01-02 13:04:20 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:04:21 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:04:21 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:04:21 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:04:21 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:04:21 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:04:21 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 51972 (http) with context path ''
+[2024-01-02 13:04:21 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.988 seconds (process running for 2.813)
+[2024-01-02 13:04:21 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:04:21 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@722b3ba2
+[2024-01-02 13:04:21 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:04:22 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:04:22 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:04:22 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:04:22 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:06:13 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 2904 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:06:13 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:06:13 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:06:13 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:06:13 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:06:13 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:06:13 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:06:13 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 939 ms
+[2024-01-02 13:06:14 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:06:14 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:06:14 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:06:14 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:06:14 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:06:14 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:06:14 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52003 (http) with context path ''
+[2024-01-02 13:06:14 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 2.002 seconds (process running for 2.861)
+[2024-01-02 13:06:14 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:06:14 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@6487f7f8
+[2024-01-02 13:06:14 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:06:15 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:06:15 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:06:15 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:06:15 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:08:18 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 5456 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:08:18 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:08:19 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:08:19 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:08:19 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:08:19 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:08:19 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:08:19 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 954 ms
+[2024-01-02 13:08:19 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:08:19 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:08:19 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:08:19 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:08:19 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:08:19 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:08:19 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52023 (http) with context path ''
+[2024-01-02 13:08:19 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.975 seconds (process running for 2.805)
+[2024-01-02 13:08:19 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:08:19 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@4bbc02ef
+[2024-01-02 13:08:19 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:08:20 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:08:20 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:08:20 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:08:20 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:09:13 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 7456 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:09:13 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:09:14 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:09:14 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:09:14 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:09:14 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:09:14 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:09:14 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 965 ms
+[2024-01-02 13:09:14 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:09:15 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:09:15 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:09:15 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:09:15 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 0 ms
+[2024-01-02 13:09:15 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:09:15 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52038 (http) with context path ''
+[2024-01-02 13:09:15 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 2.005 seconds (process running for 2.869)
+[2024-01-02 13:09:15 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:09:15 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@f0c1ae1
+[2024-01-02 13:09:15 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:09:16 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:09:16 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:09:16 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] content = {"iuser":2,"contents":"통합 테스트 작업 중","location":"그린컴퓨터학원","pics":["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMTdfMjc5%2FMDAxNzAyODE4NzY5MTQx.NfakGWVT0TEQOm4Wn0CJ1l97AI1l5fnn_xnq5bztSC4g.qOokq2aQEkZ1oYgGhM7Cz3w-my_sd9XjrhmSnTq2cekg.JPEG.tnrdls215%2FP20231217_084431722_C00CEFDD-43C2-4336-B38D-20EC129E1EE2.JPG&type=a340","https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20150128_10%2Fshrinkles_14224321219420Hk2f_JPEG%2F%25B4%25E7%25B1%25D9_%25BB%25F6%25C4%25A5.jpg&type=a340"]}
+[2024-01-02 13:09:16 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:09:16 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:09:40 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 3036 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:09:40 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:09:41 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:09:41 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:09:41 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:09:41 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:09:41 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:09:41 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 954 ms
+[2024-01-02 13:09:41 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:09:42 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:09:42 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:09:42 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:09:42 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:09:42 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:09:42 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52054 (http) with context path ''
+[2024-01-02 13:09:42 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.988 seconds (process running for 2.832)
+[2024-01-02 13:09:42 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:09:42 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@2b62475a
+[2024-01-02 13:09:42 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:09:43 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:09:43 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:09:43 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] content222 = {"iuser":2,"contents":"통합 테스트 작업 중","location":"그린컴퓨터학원","pics":["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMTdfMjc5%2FMDAxNzAyODE4NzY5MTQx.NfakGWVT0TEQOm4Wn0CJ1l97AI1l5fnn_xnq5bztSC4g.qOokq2aQEkZ1oYgGhM7Cz3w-my_sd9XjrhmSnTq2cekg.JPEG.tnrdls215%2FP20231217_084431722_C00CEFDD-43C2-4336-B38D-20EC129E1EE2.JPG&type=a340","https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20150128_10%2Fshrinkles_14224321219420Hk2f_JPEG%2F%25B4%25E7%25B1%25D9_%25BB%25F6%25C4%25A5.jpg&type=a340"]}
+[2024-01-02 13:09:43 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:09:43 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:11:41 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 8156 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:11:41 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:11:42 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:11:42 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:11:42 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:11:42 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:11:42 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:11:42 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 953 ms
+[2024-01-02 13:11:42 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:11:42 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:11:43 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:11:43 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:11:43 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:11:43 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:11:43 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52071 (http) with context path ''
+[2024-01-02 13:11:43 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.99 seconds (process running for 2.854)
+[2024-01-02 13:11:43 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:11:43 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@4bbc02ef
+[2024-01-02 13:11:43 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:11:44 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:11:44 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:11:44 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] content222 = {"result":115}
+[2024-01-02 13:11:44 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:11:44 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:15:58 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 9064 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:15:58 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:15:59 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:15:59 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:15:59 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:15:59 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:15:59 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:15:59 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 930 ms
+[2024-01-02 13:15:59 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:16:00 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:16:00 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:16:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:16:00 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:16:00 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:16:00 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52111 (http) with context path ''
+[2024-01-02 13:16:00 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.967 seconds (process running for 2.838)
+[2024-01-02 13:16:00 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:16:00 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@4bbc02ef
+[2024-01-02 13:16:00 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:16:01 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:16:01 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:16:01 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] content222 = {"result":116}
+[2024-01-02 13:16:01 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:16:01 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[2024-01-02 13:16:53 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Starting FeedIntegrationTest using Java 17.0.8.1 with PID 5524 (started by Administrator in D:\2023\java\greengram3)
+[2024-01-02 13:16:53 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] No active profile set, falling back to 1 default profile: "default"
+[2024-01-02 13:16:54 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 0 (http)
+[2024-01-02 13:16:54 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:16:54 INFO  main] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2024-01-02 13:16:54 INFO  main] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[2024-01-02 13:16:54 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2024-01-02 13:16:54 INFO  main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 933 ms
+[2024-01-02 13:16:54 INFO  main] [com.green.greengram3.common.FirebaseConfiguration] FirebaseApp Initialization Complete !!!
+[2024-01-02 13:16:55 INFO  main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2024-01-02 13:16:55 INFO  main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring TestDispatcherServlet ''
+[2024-01-02 13:16:55 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Initializing Servlet ''
+[2024-01-02 13:16:55 INFO  main] [org.springframework.test.web.servlet.TestDispatcherServlet] Completed initialization in 1 ms
+[2024-01-02 13:16:55 INFO  main] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-auto-1"]
+[2024-01-02 13:16:55 INFO  main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port 52128 (http) with context path ''
+[2024-01-02 13:16:55 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] Started FeedIntegrationTest in 1.946 seconds (process running for 2.779)
+[2024-01-02 13:16:55 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2024-01-02 13:16:55 INFO  main] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@24dc150c
+[2024-01-02 13:16:55 INFO  main] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2024-01-02 13:16:56 INFO  main] [com.green.greengram3.feed.FeedService] feedAffectedRows : 1
+[2024-01-02 13:16:56 INFO  main] [com.green.greengram3.feed.FeedService] feedPicsAffectedRows : 2
+[2024-01-02 13:16:56 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] content222 = {"result":117}
+[2024-01-02 13:16:56 INFO  main] [com.green.greengram3.feed.FeedIntegrationTest] resVo :117
+[2024-01-02 13:16:56 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[2024-01-02 13:16:56 INFO  SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.

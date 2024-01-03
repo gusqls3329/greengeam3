@@ -1,6 +1,7 @@
 package com.green.greengram3.feed;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.green.greengram3.MocMvcConfig;
 import com.green.greengram3.common.ResVo;
 import com.green.greengram3.feed.model.FeedInsDto;
 import com.green.greengram3.feed.model.FeedSelVo;
@@ -26,7 +27,7 @@ import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
-
+@MocMvcConfig
 @WebMvcTest({FeedController.class})
 class FeedControllerTest {
 
@@ -40,14 +41,14 @@ class FeedControllerTest {
     @Test
     void postFeed() throws Exception { //throws Exception : 예외가 발생할 수 있어서 던지
         ResVo result = new ResVo(5);
-        //given(service.postFeed(any())).willReturn(result); // given &when 은 같은 역할
-        when(service.postFeed(any())).thenReturn(result);
+        given(service.postFeed(any())).willReturn(result); // given &when 은 같은 역할
+        //when(service.postFeed(any())).thenReturn(result);
         FeedInsDto dto = new FeedInsDto();
         String json = mapper.writeValueAsString(dto);//dto를 제이슨으로 변경후 문자로 변경
         System.out.println("json: " + json);
 
         mvc.perform(
-                        MockMvcRequestBuilders
+                        MockMvcRequestBuilders //대문자로 오면 클래스 이름 > 객체화하지않고 바로 사용하기 때문에 static메소드
                                 .post("/api/feed") //방식에 따라 get/post로 사용 할 수 있다. 쿼리스트링으로 dto를 받을 경우 아래 메소드가 변경될 수 있다.
                                 .contentType(MediaType.APPLICATION_JSON)//dto객체를 제이슨으로 날릴때. 데이터를 제이슨으로 날릴 경우 필수(제이슨으로 날릴거라는걸 뜻함)
                                 .content(json) // 바디부분에 제이슨을 받는 것.
@@ -68,8 +69,8 @@ class FeedControllerTest {
         List<FeedSelVo> vos = new ArrayList<>();
         FeedSelVo vo = new FeedSelVo();
         vo.setIfeed(1);
-        vo.setLocation("aa");
-        vo.setWriterNm("bb");
+        vo.setLocation("한글");
+        vo.setWriterNm("사용");
         vos.add(vo);
         when(service.getFeedAll(any())).thenReturn(vos);
 
